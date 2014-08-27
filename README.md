@@ -22,7 +22,7 @@ A Novel Dynamic Constrained Multi-Objective Evolutionary Algorithm Based on Self
 计算两个个体间的支配关系。
 
 7、CreateEmptyParticle.m
-初始化优化的粒子
+初始化优化的粒子。
 
 8、CrossOperation.m
 完成交叉进化操作。
